@@ -12,7 +12,7 @@ Original file is located at
 import openai
 import streamlit as st
 
-openai.api_key = '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'
+openai.api_key = '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'
 
 def Senitment_analysis(text):
     messages = [

@@ -7,9 +7,10 @@ Original file is located at
     https://colab.research.google.com/drive/1vquTvACzmsiojwBwofblMSd1VOjXqu78
 """
 
-!pip install openai
+
 
 import openai
+import streamlit as st
 
 openai.api_key = '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'
 
